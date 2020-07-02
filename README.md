@@ -45,9 +45,9 @@ BeHealthy provides diet routine with recipes and excercise for its users, that i
     1. Traning History (New to Gym,Weekend,Regular Gym)
     1. Choice of food (Mexican,Italian,Indian,etc)
 
-![SignUP/login eg](https://user-images.githubusercontent.com/25588116/86388270-1c1bb580-bcb2-11ea-8a9f-77c8d1e0c9b3.jpg)
+<img src="https://user-images.githubusercontent.com/25588116/86388270-1c1bb580-bcb2-11ea-8a9f-77c8d1e0c9b3.jpg" height="600" width="300">
 
-![Form2 eg](https://user-images.githubusercontent.com/25588116/86388276-1faf3c80-bcb2-11ea-97b3-b27883856fbb.jpg)
+<img src="https://user-images.githubusercontent.com/25588116/86388276-1faf3c80-bcb2-11ea-97b3-b27883856fbb.jpg" height="600" width="300">
 
 
 ### Dashboard
